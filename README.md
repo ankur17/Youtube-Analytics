@@ -33,5 +33,5 @@ In the notebook, edit the line containg the variable
 urlList = []
 ```
 
-###Executing in Jupyter
+###Jupyter Shortcuts
   - *shift* + *Enter* -  executes the cell
