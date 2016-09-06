@@ -1,0 +1,5 @@
+Enter the list of the channels:
+(eg.)
+
+https://www.youtube.com/channel/UCUSkquV90DhVgCk49XXqbBw/videos
+https://www.youtube.com/user/sabtv/videos
