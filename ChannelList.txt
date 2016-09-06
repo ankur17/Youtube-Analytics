@@ -1,5 +1,3 @@
 Enter the list of the channels:
-(eg.)
+(starting with 'https://' eg. https://www.youtube.com/user/PewDiePie/videos)
 
-https://www.youtube.com/channel/UCUSkquV90DhVgCk49XXqbBw/videos
-https://www.youtube.com/user/sabtv/videos
