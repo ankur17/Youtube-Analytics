@@ -1,5 +1,7 @@
 #User lists
 LocalHTML/
+GraphImage/
+ChannelList.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
